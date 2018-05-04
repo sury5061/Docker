@@ -1,9 +1,9 @@
 
-A docker container running flask python environment shows a good RESTful API example
+Docker container - flask python environment 
 
-Build the image using command: docker build -t new .
+Image Build -  command: docker build -t new .
 
-Run the Docker container using the command: docker run -d -p 5000:5000 flaskapp
+Run Docker container -command: docker run -d -p 5000:5000 flaskapp
 
 We have used 5000 as Python works on this default port.
 
